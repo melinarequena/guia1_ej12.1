@@ -3,4 +3,4 @@ project(guia1_ej12_1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(guia1_ej12_1 main.c)
+add_executable(guia1_ej12_1 main.c Texto.c Texto.h)
